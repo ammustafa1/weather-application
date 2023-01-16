@@ -1,0 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
+.bg-primary {
+    background-color: #a9b5f0;
+}
